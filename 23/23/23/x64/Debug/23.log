@@ -1,0 +1,48 @@
+﻿  Решение.c
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(64,12): warning C4047: функция: "List *" отличается по уровням косвенного обращения от "List"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(64,12): warning C4024: initlist: различные типы для формального и фактического параметров 1
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(69,11): warning C4047: функция: "List *" отличается по уровням косвенного обращения от "List"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(69,11): warning C4024: isempty: различные типы для формального и фактического параметров 1
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(88,10): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(88,10): warning C4313: printf: конфликт "%s" в строке формата с аргументом 2 типа "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(88,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "char *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(88,10): warning C4313: printf: конфликт "%d" в строке формата с аргументом 3 типа "char *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(105,2): warning C4098: initlist: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(113,3): warning C4098: insertfront: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(116,10): warning C4013: prepend: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(116,8): warning C4047: =: "List *" отличается по уровням косвенного обращения от "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(117,3): warning C4098: insertfront: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(122,20): warning C4047: ==: "listitem *" отличается по уровням косвенного обращения от "List *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(128,20): warning C4013: create: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(129,16): warning C4047: =: "listitem *" отличается по уровням косвенного обращения от "List *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(130,3): warning C4098: insertfront: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(134,3): warning C4098: insertfront: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(119,7): warning C4047: инициализация: "List" отличается по уровням косвенного обращения от "List *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(128,9): warning C4047: инициализация: "List *" отличается по уровням косвенного обращения от "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(143,3): warning C4098: insertback: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(146,8): warning C4047: =: "List *" отличается по уровням косвенного обращения от "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(147,3): warning C4098: insertback: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(160,16): warning C4047: =: "listitem *" отличается по уровням косвенного обращения от "List *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(161,3): warning C4098: insertback: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(165,3): warning C4098: insertback: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(149,7): warning C4047: инициализация: "List" отличается по уровням косвенного обращения от "List *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(159,9): warning C4047: инициализация: "List *" отличается по уровням косвенного обращения от "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(208,11): warning C4013: remove_front: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(208,9): warning C4047: =: "List" отличается по уровням косвенного обращения от "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(209,3): warning C4098: destroyItem: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(214,11): warning C4013: remove_back: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(214,9): warning C4047: =: "List" отличается по уровням косвенного обращения от "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(215,3): warning C4098: destroyItem: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(221,20): warning C4047: =: "listitem *" отличается по уровням косвенного обращения от "List *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(231,2): warning C4098: destroyItem: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(218,7): warning C4047: инициализация: "List" отличается по уровням косвенного обращения от "List *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(237,7): warning C4047: инициализация: "List" отличается по уровням косвенного обращения от "List *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(253,22): warning C4047: ==: "int" отличается по уровням косвенного обращения от "char *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(250,7): warning C4047: инициализация: "List" отличается по уровням косвенного обращения от "List *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(81,1): warning C4715: mine: значение возвращается не при всех путях выполнения
+Решение.obj : error LNK2019: ссылка на неразрешенный внешний символ prepend в функции insertback.
+Решение.obj : error LNK2019: ссылка на неразрешенный внешний символ create в функции insertback.
+Решение.obj : error LNK2019: ссылка на неразрешенный внешний символ remove_front в функции destroyItem.
+Решение.obj : error LNK2019: ссылка на неразрешенный внешний символ remove_back в функции destroyItem.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\krisf\source\repos\Owolon\23\23\x64\Debug\23.exe : fatal error LNK1120: неразрешенных внешних элементов: 5
