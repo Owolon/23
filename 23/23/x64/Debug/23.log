@@ -1,0 +1,57 @@
+﻿  Решение.c
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(20,6): warning C4030: первый список формальных параметров длиннее второго
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(20,6): warning C4028: формальный параметр 2 отличается от объявления
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(20,6): warning C4028: формальный параметр 3 отличается от объявления
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(21,6): warning C4028: формальный параметр 2 отличается от объявления
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(64,12): warning C4047: функция: "List *" отличается по уровням косвенного обращения от "List"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(64,12): warning C4024: initlist: различные типы для формального и фактического параметров 1
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(83,10): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(83,10): warning C4313: printf: конфликт "%s" в строке формата с аргументом 2 типа "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(83,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "char *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(83,10): warning C4313: printf: конфликт "%d" в строке формата с аргументом 3 типа "char *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(100,2): warning C4098: initlist: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(104,36): warning C4028: формальный параметр 2 отличается от объявления
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(104,46): warning C4028: формальный параметр 3 отличается от объявления
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(104,6): warning C4029: объявленный список формальных параметров отличается от объявления
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(108,3): warning C4098: insertfront: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(111,10): warning C4013: prepend: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(111,8): warning C4047: =: "List *" отличается по уровням косвенного обращения от "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(112,3): warning C4098: insertfront: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(114,8): error C2040: cursor: "List *" отличается по уровням косвенного обращения от "List"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(117,20): warning C4047: ==: "listitem *" отличается по уровням косвенного обращения от "List *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(123,20): warning C4013: create: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(124,16): warning C4047: =: "listitem *" отличается по уровням косвенного обращения от "List *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(125,3): warning C4098: insertfront: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(129,3): warning C4098: insertfront: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(123,9): warning C4047: инициализация: "List *" отличается по уровням косвенного обращения от "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(134,33): warning C4028: формальный параметр 2 отличается от объявления
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(140,6): error C2084: функция "void insertfront(List *,List *,int,int)" уже имеет текст реализации
+      C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(104,6):
+      см. предыдущее определение "insertfront"
+  
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(146,6): error C2084: функция "void insertback(List *,int)" уже имеет текст реализации
+      C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(134,6):
+      см. предыдущее определение "insertback"
+  
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(178,11): warning C4047: ==: "List" отличается по уровням косвенного обращения от "List *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(180,10): warning C4013: remove_front: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(180,8): warning C4047: =: "List *" отличается по уровням косвенного обращения от "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(181,3): warning C4098: destroyItem: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(186,10): warning C4013: remove_back: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(186,8): warning C4047: =: "List *" отличается по уровням косвенного обращения от "int"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(187,3): warning C4098: destroyItem: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(190,8): error C2040: cursor: "List *" отличается по уровням косвенного обращения от "List"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(193,20): warning C4047: =: "listitem *" отличается по уровням косвенного обращения от "List *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(200,18): error C2223: выражение слева от "->next" должно указывать на структуру или объединение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(201,3): error C2223: выражение слева от "->next" должно указывать на структуру или объединение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(204,2): warning C4098: destroyItem: функция типа "void", возвращающая значение
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(199,9): warning C4047: инициализация: "List *" отличается по уровням косвенного обращения от "listitem *"
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(211,7): error C2374: cursor: переопределение; множественная инициализация
+      C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(210,7):
+       см. объявление "cursor"
+  
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(225,7): error C2374: cursor: переопределение; множественная инициализация
+      C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(224,7):
+       см. объявление "cursor"
+  
+C:\Users\krisf\source\repos\Owolon\23\23\Решение.c(228,22): warning C4047: ==: "int" отличается по уровням косвенного обращения от "char *"
