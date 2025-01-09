@@ -75,7 +75,7 @@ void destroyite(List* head) {
         return;
     }
     List temp = *head;
-    while (temp->next->next != NULL) {
+    while (temp->next != NULL) {
         temp = temp->next;
     }
     free(temp->next);
