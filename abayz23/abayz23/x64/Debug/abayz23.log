@@ -1,0 +1,3 @@
+﻿  htu.c
+C:\Users\ПК\source\repos\abayz23\htu.c(59,9): warning C4098: destroyitem: функция типа "void", возвращающая значение
+  abayz23.vcxproj -> C:\Users\ПК\source\repos\abayz23\x64\Debug\abayz23.exe
